@@ -17,7 +17,6 @@ header img {
 }
 nav {
     text-align: right;
-    vertical-align: 100px ;
 }
 nav ul li {
     list-style-type: none;
@@ -27,6 +26,7 @@ nav ul li {
     width: 20% ;
     font-size: 150% ;
     font-family: 'Ranga', cursive;
+    margin-top: 100px ;
 
 }  
 nav ul li:hover {
