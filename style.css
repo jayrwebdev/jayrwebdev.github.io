@@ -17,6 +17,7 @@ header img {
 }
 nav {
     text-align: right;
+    padding-top: 25px;
 }
 nav ul li {
     list-style-type: none;
