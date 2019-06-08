@@ -27,6 +27,7 @@ nav ul li a {
     width: 20% ;
     font-size: 150% ;
     font-family: 'Ranga', cursive;
+    color: black;
 }  
 nav ul li a:hover {
     color: white ;
