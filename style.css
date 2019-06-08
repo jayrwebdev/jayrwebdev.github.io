@@ -19,7 +19,7 @@ nav {
     text-align: right;
     padding-top: 25px;
 }
-nav ul li {
+nav ul li a {
     list-style-type: none;
     display: inline-block;
     margin: 0 auto ;
@@ -28,16 +28,16 @@ nav ul li {
     font-size: 150% ;
     font-family: 'Ranga', cursive;
 }  
-nav ul li:hover {
+nav ul li a:hover {
     color: white ;
     background-color: red ;
     border-radius: 25px ;
 } 
-nav ul li:active {
+nav ul li a:active {
     color: white;
 
 }
-nav ul li:focus {
+nav ul li a:focus {
     color: white;
 }
 #line {
