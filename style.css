@@ -33,6 +33,13 @@ nav ul li:hover {
     background-color: red ;
     border-radius: 25px ;
 } 
+nav ul li:active {
+    color: white;
+
+}
+nav ul li:focus {
+    color: white;
+}
 #line {
     background-color: black ;
     height: 15px ;
