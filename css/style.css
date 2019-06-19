@@ -116,7 +116,7 @@ footer {
         text-align: left ;
     }
     #line {
-        margin-left: 25px ;
+        margin-left: 5px ;
         width: 100% ;
     }
     .box {
@@ -124,17 +124,21 @@ footer {
     }
 }
 @media (max-width: 375px ) {
-    header {
-        width: 775px ;
-    }
     #wrapper {
-         width: 90% ;
+         width: 360px ;
+    }
+    header {
+        width: 705px ;  
     }
     #line {
         width: 725px ;
+        margin-left: 2px ;
     }
     input {
         width: 700px ;
+    }
+    #minigraph {
+        margin-left: 20px ;
     }
 }
  
